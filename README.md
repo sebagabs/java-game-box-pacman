@@ -5,7 +5,7 @@
 
 Second project for the CIIC 4010: Advanced Programming class (object oriented programming in Java).
 
-The objective of this project was to develop Java Game Box: Pacman a simplified version of the game of the century Galaga. This project was worked in teams of two students. The project helped develop technical skills such as:
+The objective of this project was to develop Java Game Box: Pacman a simplified version of the game of the century Pacman. This project was worked in teams of two students. The project helped develop technical skills such as:
 
  - reading and understanding Java code
  - creating classes and methods
