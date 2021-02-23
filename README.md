@@ -1,4 +1,4 @@
-## /java-game-box-pacman
+## [/java-game-box-pacman](https://github.com/sebagabs/java-game-box-pacman)
 
 # Java Game Box: Pacman
 **Worked from March 2020 to April 2020**
